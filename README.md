@@ -13,7 +13,7 @@ The goal of this project is to develop an automated model that accurately classi
 <div class="alert alert-block alert-info" style="margin-top: 20px">
     <p><font size="5">Part 1 - Classification Problem: Classifying the defect on the aircraft as 'dent' or 'crack'</p>
 <font size="3">
-        1. <a href="#1.1-Dataset-Preparation">1.1 Dataset Preparation</a><br>
+        1. <a href="#1.1-Dataset-Preparation">1.1 Dataset Preparation</a><br> 
         2. <a href="#1.2-Data-Preprocessing">1.2 Data Preprocessing</a><br>
         3. <a href="#1.3-Model-Definition">1.3 Model Definition</a><br>
         4. <a href="#1.4-Model-Training">1.4 Model Training</a><br>
