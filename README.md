@@ -8,6 +8,5 @@ The goal of this project is to develop an automated model that accurately classi
 
 - A trained model capable of classifying aircraft images into "dent" and "crack" categories, enabling automated aircraft damage detection.
 - A Transformer-based model that generates captions and summaries of images
-<h2>Table of Contents</h2>
- 
+
 
