@@ -10,19 +10,4 @@ The goal of this project is to develop an automated model that accurately classi
 - A Transformer-based model that generates captions and summaries of images
 <h2>Table of Contents</h2>
  
-<div class="alert alert-block alert-info" style="margin-top: 20px">
-    <p><font size="5">Part 1 - Classification Problem: Classifying the defect on the aircraft as 'dent' or 'crack'</p>
-<font size="3">
-        1. <a href="#1.1-Dataset-Preparation">1.1 Dataset Preparation</a><br> 
-        2. <a href="#1.2-Data-Preprocessing">1.2 Data Preprocessing</a><br>
-        3. <a href="#1.3-Model-Definition">1.3 Model Definition</a><br>
-        4. <a href="#1.4-Model-Training">1.4 Model Training</a><br>
-        5. <a href="#1.5-Visualizing-Training-Results">1.5 Visualizing Training Results</a><br>
-        6. <a href="#1.6-Model-Evaluation">1.6 Model Evaluation</a><br>
-        7. <a href="#1.7-Visualizing-Predictions">1.7 Visualizing Predictions</a><br>
-    <br>
-<p><font size="5">Part 2: Image Captioning and Summarization using BLIP Pretrained Model</p>
-<font size="3">
-        1. <a href="#2.1-Loading-BLIP-Model">2.1 Loading BLIP Model</a><br>
-        2. <a href="#2.2-Generating-Captions-and-Summaries">2.2 Generating Captions and Summaries</a><br>
-        <br>
+
